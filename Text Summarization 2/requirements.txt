@@ -1,0 +1,10 @@
+flask
+flask_login
+flask_sqlalchemy
+pandas
+numpy
+scipy
+nltk
+joblib networkx
+fpdf
+
